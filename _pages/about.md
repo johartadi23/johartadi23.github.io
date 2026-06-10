@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MFE Candidate at UC Berkeley Haas School of Business. Berkeley, CA.
+subtitle: UC Berkeley Haas MFE. Computational Finance, Data Science, NLP.
 profile:
   align: right
   image: 20260319_MFEPortraits_bhs_230_copy.jpg
