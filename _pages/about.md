@@ -21,10 +21,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master of Financial Engineering candidate at UC Berkeley's Haas School of Business (Class of 2027), focused on emerging market macro, sovereign credit, and fixed income research. Before the MFE, I earned a double Bachelor's degree in Economics (Honors) and Data Science at UC Berkeley and passed CFA Level 1.
+I'm Jonathan, a **UC Berkeley MFE** candidate who turns messy markets into decisions you can act on, mostly where **macro**, **sovereign credit**, and **fixed income** get interesting.
 
-My research applies econometrics and NLP to markets. I co-authored a peer-reviewed paper in the Academy of Management Discoveries that quantifies organizational culture from 1.82 million Glassdoor employee reviews across 1,113 firms and links it to financial performance during COVID-19. My undergraduate honors thesis, an event study of Indonesia's nickel export ban, found that nickel producers experienced cumulative abnormal returns of negative 55.4 percentage points relative to control firms (p < 0.01), using Bloomberg Terminal data benchmarked against the JCI Index.
+Everything starts as a question. What happens to a stock when a government bans an export overnight? Can a million employee reviews predict which firms survive a crisis? I chase these with **econometrics** and **NLP**, and the answers have landed in a **peer-reviewed journal** and an honors thesis. When I'm not researching, I'm building: a backtester trained on **9.4M observations**, data pipelines at a health-tech startup, credit models at **CIMB Niaga** in Jakarta where one assumption decided a **$30M loan**.
 
-Professionally, I worked as a corporate banking credit analyst at CIMB Niaga in Jakarta, where I led the fundamental credit analysis behind a \$30M loan approval for a \$2.9B food and beverage company and automated the team's Excel models, saving 250 hours of work per year. I also build systematic tools independently, including a portfolio backtester that trains regularized return forecasting models on 9.4 million observations.
+The rule behind all of it, learned on a credit desk: a good model isn't one that's right once, it's one that doesn't break when the market moves.
 
-I am currently recruiting for quantitative research and markets roles. Feel free to reach out.
+Thanks for stopping by.
