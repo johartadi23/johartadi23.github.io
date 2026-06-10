@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UC Berkeley Haas MFE. Econometrics. ML. NLP.
+subtitle: **UC Berkeley Haas MFE. Econometrics. ML. NLP.**
 profile:
   align: right
   image: 20260319_MFEPortraits_bhs_230_copy.jpg
