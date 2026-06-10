@@ -5,7 +5,7 @@ permalink: /
 subtitle: MFE Candidate at UC Berkeley Haas School of Business. Berkeley, CA.
 profile:
   align: right
-  image: 20260319_MFEPortraits_bhs_230.jpg
+  image: 20260319_MFEPortraits_bhs_230 copy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Berkeley, CA</p>
