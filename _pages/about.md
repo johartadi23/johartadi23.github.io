@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UC Berkeley Haas MFE. Computational Finance, Data Science, NLP.
+subtitle: UC Berkeley Haas MFE. Econometrics. ML. NLP.
 profile:
   align: right
   image: 20260319_MFEPortraits_bhs_230_copy.jpg
@@ -27,7 +27,7 @@ latest_posts:
   }
 </style>
 
-My name is Jonathan. I'm a Berkeley Haas MFE with a compulsive need to turn unanswered questions into regression tables.
+Welcome. I'm an Indonesian student with a hobby of turning unanswered questions into regression tables.
 
 Most of my work is some version of the same problem: a messy, high-dimensional world that needs a cleaner model. Event studies on export bans. NLP on a million employee reviews. Credit frameworks stress-tested against a moving rate environment. The methods vary. The curiosity doesn't.
 
