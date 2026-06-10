@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>UC Berkeley Haas MFE. Econometrics. ML. NLP.</b>
+subtitle: "<strong>UC Berkeley Haas MFE. Econometrics. ML. NLP.</strong>"
 profile:
   align: right
   image: 20260319_MFEPortraits_bhs_230_copy.jpg
