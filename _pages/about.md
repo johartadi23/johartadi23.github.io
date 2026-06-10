@@ -21,6 +21,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .about p {
+    font-size: 18px;
+  }
+</style>
+
 My name is Jonathan. I'm a Berkeley Haas MFE with a compulsive need to turn unanswered questions into regression tables.
 
 Most of my work is some version of the same problem: a messy, high-dimensional world that needs a cleaner model. Event studies on export bans. NLP on a million employee reviews. Credit frameworks stress-tested against a moving rate environment. The methods vary. The curiosity doesn't.
