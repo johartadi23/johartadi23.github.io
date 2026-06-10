@@ -4,7 +4,6 @@ cv:
   email: johartadi23@berkeley.edu
   location: Berkeley, CA
   image: ""
-  summary: UC Berkeley Haas MFE candidate specializing in quantitative finance, fixed income, and EM macro. CFA Level 1.
 
   social_networks:
     - network: LinkedIn
@@ -33,10 +32,10 @@ cv:
         highlights:
           - "GPA: 3.84 | High Honors in Economics (~20 students out of 800, top 2.5%)"
 
-    Experience:
+Experience:
       - company: FINVIA Multi-Family Office
         position: MFE Industry Project — NLP Investment Research
-        location: San Francisco Bay Area, CA
+        location: San Francisco, CA
         start_date: 2026-06
         end_date: present
         highlights:
@@ -44,7 +43,7 @@ cv:
 
       - company: Franklin Templeton
         position: MFE Industry Project — Municipal Bonds
-        location: San Francisco Bay Area, CA
+        location: San Francisco, CA
         start_date: 2026-03
         end_date: 2026-05
         highlights:
