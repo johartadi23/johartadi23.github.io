@@ -21,10 +21,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Jonathan, a **UC Berkeley MFE** candidate who turns messy markets into decisions you can act on, where **macro**, **sovereign credit**, and **fixed income** get interesting.
+My name is Jonathan. I'm a Berkeley Haas MFE with a compulsive need to turn unanswered questions into regression tables.
 
-Everything starts as a question. What happens to a stock when a government bans an export overnight? Can a million reviews predict which firms survive a crisis? I chase these with **econometrics** and **NLP**, and they've landed in a **peer-reviewed journal** and an honors thesis. The rest of the time I build: **NLP** investment research pipelines with **FINVIA**, **municipal bond** credit analytics with **Franklin Templeton**, healthcare data infrastructure at **CheckRx**, credit models at **CIMB Niaga**.
+Most of my work is some version of the same problem: a messy, high-dimensional world that needs a cleaner model. Event studies on export bans. NLP on a million employee reviews. Credit frameworks stress-tested against a moving rate environment. The methods vary. The curiosity doesn't.
 
-My rule: a good model isn't one that's right once, it's one that doesn't break when the market moves.
-
-Thanks for stopping by.
+This site is where I think out loud. Some of it ends up in peer-reviewed journals. Some of it ends up in a GitHub repo at 2am. Either way, if a question is interesting enough to model, it's interesting enough to write about. Stationarity not guaranteed.
