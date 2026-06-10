@@ -32,7 +32,7 @@ cv:
         highlights:
           - "GPA: 3.84 | High Honors in Economics (~20 students out of 800, top 2.5%)"
 
-Experience:
+    Experience:
       - company: FINVIA Multi-Family Office
         position: MFE Industry Project — NLP Investment Research
         location: San Francisco, CA
