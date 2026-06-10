@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 🪐 Jonathan Hartadi
+title: Jonathan Hartadi
 first_name: Jonathan
 middle_name:
 last_name: Hartadi
@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Jonathan Hartadi, UC Berkeley MFE, quantitative finance, financial engineering
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🪐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://johartadi23.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
