@@ -4,19 +4,18 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jonathan
-middle_name: R.
+middle_name:
 last_name: Hartadi
 contact_note: >
-  johartadi23@berkeley.edu
+  The best way to reach me is by email at johartadi23@berkeley.edu.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   MFE Candidate at UC Berkeley Haas. Computational Finance, Data Science, and NLP.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Jonathan Hartadi, UC Berkeley MFE, quantitative finance, financial engineering
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://johartadi23.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -122,8 +121,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -341,8 +340,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hartadi]
+  first_name: [Jonathan, J.]
 
   style: apa
   locale: en
