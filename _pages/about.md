@@ -23,7 +23,7 @@ latest_posts:
 
 I'm Jonathan, a **UC Berkeley MFE** candidate who turns messy markets into decisions you can act on, where **macro**, **sovereign credit**, and **fixed income** get interesting.
 
-Everything starts as a question. What happens to a stock when a government bans an export overnight? Can a million reviews predict which firms survive a crisis? I chase these with **econometrics** and **NLP**, and they've landed in a **peer-reviewed journal** and an honors thesis. The rest of the time I build: **NLP** investment research pipelines with **FINVIA**, **municipal bond** credit analytics with **Franklin Templeton**, healthcare data infrastructure at **CheckRx**, credit models at **CIMB Niaga** where one assumption moved a **$30M loan**.
+Everything starts as a question. What happens to a stock when a government bans an export overnight? Can a million reviews predict which firms survive a crisis? I chase these with **econometrics** and **NLP**, and they've landed in a **peer-reviewed journal** and an honors thesis. The rest of the time I build: **NLP** investment research pipelines with **FINVIA**, **municipal bond** credit analytics with **Franklin Templeton**, healthcare data infrastructure at **CheckRx**, credit models at **CIMB Niaga**.
 
 My rule: a good model isn't one that's right once, it's one that doesn't break when the market moves.
 
