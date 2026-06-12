@@ -27,8 +27,8 @@ latest_posts:
   }
 </style>
 
-Welcome. I'm an Indonesian student with a hobby of turning unanswered questions into regression tables.
+Welcome. I'm an Indonesian student with one recurring problem: the world is high-dimensional and someone has to clean it up.
 
-Most of my work is some version of the same problem: a messy, high-dimensional world that needs a cleaner model. **Event studies** on export bans. **NLP** on a million employee reviews. Credit frameworks stress-tested against a moving rate environment. The methods vary. The curiosity doesn't.
+**Event studies** on export bans. **NLP** on a million employee reviews. Credit frameworks stress-tested against a moving rate environment. The methods vary. The curiosity doesn't.
 
-This site is where I think out loud. Some of it ends up in **peer-reviewed journals**. Some of it ends up in a **GitHub** repo at 2am. Either way, if a question is interesting enough to model, it's interesting enough to write about. Stationarity not guaranteed...
+Some of it ends up in **peer-reviewed journals**. Some of it ends up in a **GitHub** repo at 2am. Either way, if a question is interesting enough to model, it's interesting enough to write about. Stationarity not guaranteed...
