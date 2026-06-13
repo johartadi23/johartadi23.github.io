@@ -5,7 +5,7 @@ title: resume
 nav: true
 nav_order: 5
 cv_format: rendercv
-cv_pdf: Resume_Jonathan_Hartadi.pdf
+cv_pdf: /assets/pdf/Resume_Jonathan_Hartadi.pdf
 description: This page contains my latest CV.
 toc:
   sidebar: left
