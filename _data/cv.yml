@@ -1,118 +1,99 @@
-cv:
-  name: Jonathan Hartadi
-  label: UC Berkeley Haas MFE Candidate
-  email: johartadi23@berkeley.edu
-  location: Berkeley, CA
-  image: ""
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jonathan Hartadi
+    - name: Email
+      value: johartadi23@berkeley.edu
+    - name: LinkedIn
+      value: linkedin.com/in/jonathanhartadi
+    - name: GitHub
+      value: github.com/johartadi23
 
-  social_networks:
-    - network: LinkedIn
-      username: jonathanhartadi
-    - network: GitHub
-      username: johartadi23
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Financial Engineering
+      institution: University of California, Berkeley - Haas School of Business
+      year: 03/2027
+      description:
+        - "Coursework: Derivatives, Fixed Income, Stochastic Calculus, Machine Learning for Finance."
 
-  sections:
-    Education:
-      - institution: University of California, Berkeley — Haas School of Business
-        location: Berkeley, CA
-        url: https://mfe.haas.berkeley.edu
-        area: Financial Engineering
-        studyType: Master of Financial Engineering
-        start_date: 2026-03
-        end_date: 2027-03
-        highlights:
-          - "Relevant Coursework: Derivatives, Fixed Income, Stochastic Calculus, Time Series, Probability Theory, Machine Learning, NLP"
+    - title: Bachelor of Arts, Economics (High Honors) & Data Science
+      institution: University of California, Berkeley
+      year: 12/2025
+      description:
+        - "GPA: 3.84/4.00. Economics High Honors (~20 students out of 800, ~2.5%)."
+        - "Double major: Economics (High Honors) and Data Science in Applied Mathematics and Modeling."
 
-      - institution: University of California, Berkeley
-        location: Berkeley, CA
-        area: Data Science (Applied Mathematics & Modeling) and Economics — High Honors
-        studyType: Bachelor of Arts (Double Major)
-        start_date: 2021-08
-        end_date: 2025-12
-        highlights:
-          - "GPA: 3.84 | High Honors in Economics (~20 students out of 800, top 2.5%)"
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: MFE Industry Project - NLP Investment Research
+      institution: FINVIA Multi-Family Office, San Francisco Bay Area, CA
+      year: 06/26 - Pres.
+      description:
+        - "Building investment signal pipeline over SEC EDGAR 10-K filings: Loughran-McDonald to FinBERT sentiment, transformer NER, relation/event extraction, BERTopic, LLM structured extraction, fine-tuned FinBERT classifier."
 
-    Experience:
-      - company: FINVIA Multi-Family Office
-        position: MFE Industry Project — NLP Investment Research
-        location: San Francisco, CA
-        start_date: 2026-06
-        end_date: present
-        highlights:
-          - Building investment signal pipeline over SEC EDGAR 10-K filings — Loughran-McDonald, FinBERT sentiment, transformer NER, relation/event extraction, BERTopic, LLM structured extraction, fine-tuned FinBERT classifier
+    - title: MFE Industry Project - Municipal Bonds
+      institution: Franklin Templeton, San Francisco Bay Area, CA
+      year: 03/26 - 05/26
+      description:
+        - "Built LASSO muni credit spread model (spline maturity curves, call optionality features) date-grouped cross-validated over OLS/Ridge/ElasticNet/Huber: test MAE=15bps on 3,219 unseen trades, R2=0.52."
+        - "Layered peer-group residual-correction with lagged residuals: MAE=18.4bps to 16.6bps on 556 recent trades; found -11% RMSE improvement in calm but not volatile regimes."
+        - "Designed KNN coverage scorer to flag model confidence (Good/Medium/Weak) for $45B portfolio."
 
-      - company: Franklin Templeton
-        position: MFE Industry Project — Municipal Bonds
-        location: San Francisco, CA
-        start_date: 2026-03
-        end_date: 2026-05
-        highlights:
-          - Built LASSO muni credit spread model (spline maturity curves, call optionality features) date-grouped cross-validated over OLS/Ridge/ElasticNet/Huber — test MAE=15bps on 3,219 unseen trades, R²=0.52
-          - Layered peer-group residual-correction with lagged residuals — MAE 18.4bps to 16.6bps on 556 recent trades; found -11% RMSE in calm but not volatile regimes
-          - Designed KNN coverage scorer flagging model confidence (Good/Medium/Weak) for $45B portfolio
+    - title: Data Engineering Intern - Healthcare Data Infrastructure
+      institution: CheckRx, San Diego, CA
+      year: 06/25 - 08/25
+      description:
+        - "Constructed database mapping 9,539 providers to plans from fragmented data via Selenium scraping pipeline with anti-bot detection, powering $8.88M valued Medicare AI platform; saved $25,000 in data processing fees."
+        - "Deployed FastAPI serving real-time Medicare benefits and CMS star ratings across 5,666 plans via bulk endpoints."
 
-      - company: CheckRx
-        position: Data Engineering Intern — Healthcare Data Infrastructure
-        location: San Diego, CA
-        start_date: 2025-06
-        end_date: 2025-08
-        highlights:
-          - Constructed database mapping 9,539 providers to plans via Selenium scraping pipeline with anti-bot detection, powering \$8.88M Medicare AI platform; saved \$25,000 in data processing fees
-          - Deployed FastAPI serving real-time Medicare benefits and CMS star ratings across 5,666 plans via bulk endpoints
+    - title: Summer Analyst - Corporate Banking Credit
+      institution: CIMB Niaga, Jakarta, Indonesia
+      year: 06/24 - 08/24
+      description:
+        - "Performed fundamental analysis for $2.9B food client by automating projection model (debt ratio calculations, cash-flows, scenario stress-testing); led $30M loan approval past risk committee, saved 250 hours/year for desk."
 
-      - company: CIMB Niaga
-        position: Summer Analyst — Corporate Banking Credit
-        location: Jakarta, Indonesia
-        start_date: 2024-06
-        end_date: 2024-08
-        highlights:
-          - Performed fundamental analysis for \$2.9B food client by automating projection model (debt ratio calculations, cash flows, scenario stress-testing); led \$30M loan approval past risk committee
-          - Saved 250 hours/year for desk through Excel model automation
+- title: Publications & Research
+  type: time_table
+  contents:
+    - title: Firm Financial Performance and Organizational Culture under Environmental Volatility
+      institution: Academy of Management Discoveries (Peer-Reviewed) | Co-authored with Dean of Haas
+      year: 2026
+      description:
+        - "Ran OLS/SEM on 1,113 firms using NLP-scored culture variables from 1.82M Glassdoor reviews."
+        - "Identified results-oriented culture as strongest predictor of financial performance (beta=0.022, Tobin's Q R2=0.63)."
 
-    Publications:
-      - title: "Organizational Culture and Firm Performance under Environmental Volatility: The COVID-19 Natural Experiment"
-        authors:
-          - Jennifer Chatman
-          - Jonathan Hartadi
-          - et al.
-        publisher: Academy of Management Discoveries (Under Review)
-        releaseDate: 2025
-        summary: Co-authored with Dean of Haas and scholars from Stanford and Columbia. OLS/SEM on 1,113 firms; NLP scoring pipeline fine-tuned on 1.82M Glassdoor reviews; results-oriented culture identified as strongest predictor (β=0.022, Tobin's Q R²=0.63).
+    - title: "Policy Shocks: Stock Market Response of Indonesia's Nickel Export Ban"
+      institution: UC Berkeley Economics Honors Thesis
+      year: 2025
+      description:
+        - "2-stage event study on 15 firms against JCI Index. Producer equities underperformed control by 55pp (p<0.01)."
+        - "Consumer impact negligible and statistically insignificant. Cross-sectional OLS on CAR with adj. R2=0.56."
 
-      - title: "Policy Shocks: Stock Market Response of Indonesia's Nickel Export Ban"
-        authors:
-          - Jonathan Hartadi
-        publisher: UC Berkeley Department of Economics — Honors Thesis
-        releaseDate: 2025-12
-        summary: 2-stage event study isolating asymmetric market impact of Indonesia's 2019 nickel export ban. Producer equities underperformed controls by 55pp (p<0.01); consumer impact negligible. Cross-sectional OLS on CAR across 15 firms against JCI Index (adj. R²=0.56).
+- title: Skills & Certifications
+  type: map
+  contents:
+    - name: Programming
+      value: Python, SQL, R, MATLAB
+    - name: ML & NLP
+      value: scikit-learn, statsmodels, gensim, spaCy, FinBERT, GloVe, BERTopic
+    - name: Finance
+      value: Bloomberg Terminal, Fixed Income, Credit Analysis, Event Studies, Portfolio Backtesting
+    - name: Certifications
+      value: CFA Level 1
 
-    Skills:
-      - name: Programming
-        icon: fa-solid fa-code
-        keywords: "Python, R, MATLAB, SQL"
+- title: Projects
+  type: time_table
+  contents:
+    - title: Systematic Portfolio Backtester
+      description:
+        - "Ridge regression (alpha=1.0) on 9.4M observations with 20 features to predict 90-day equity returns. Capped-proportional allocation across top 15 stocks (10% cap). Trained 2015-2020, tested 2021-2025."
 
-      - name: Libraries
-        icon: fa-solid fa-layer-group
-        keywords: "pandas, numpy, scikit-learn, statsmodels, gensim, spaCy, FinBERT, BERTopic"
-
-      - name: Finance & Quantitative Methods
-        icon: fa-solid fa-chart-line
-        keywords: "Bloomberg Terminal, Fixed Income, Credit Analysis, Event Studies, Stochastic Calculus, Time Series, Probability Theory, Statistical Methods, Portfolio Backtesting"
-
-    Languages:
-      - name: English
-        summary: "Fluent"
-      - name: Indonesian (Bahasa)
-        summary: "Native"
-      - name: Javanese
-        summary: "Native"
-      - name: Malay
-        summary: "Fluent"
-      - name: Chinese (Mandarin)
-        summary: "Conversational"
-
-    Certificates:
-      - name: CFA Level 1
-        date: 2024
-        issuer: CFA Institute
-        icon: fa-solid fa-certificate
+- title: Languages
+  type: list
+  contents:
+    - <u>Native:</u> Indonesian, Javanese
+    - <u>Fluent:</u> Malay, English
