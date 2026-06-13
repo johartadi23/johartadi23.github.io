@@ -288,19 +288,15 @@ ul.timeline li::before {
 .cv .align-middle { vertical-align: middle; }
 .cv .float-right { float: right; }
 
-/* Remove stray bullet next to date badges — force it, override theme list styling */
-.cv ul.list-group,
-.cv ul.list-group.list-group-flush {
+/* Kill the ::marker bullet on time_table rows — confirmed structure via DevTools */
+ul.list-group-flush {
   list-style: none !important;
   padding-left: 0 !important;
-  margin-left: 0 !important;
 }
-.cv ul.list-group > li.list-group-item {
+li.list-group-item {
   list-style: none !important;
-  margin-left: 0 !important;
+  list-style-type: none !important;
 }
-.cv ul.list-group > li.list-group-item::marker,
-.cv ul.list-group > li.list-group-item::before {
-  content: "" !important;
-  display: none !important;
+li.list-group-item::marker {
+  content: none !important;
 }
