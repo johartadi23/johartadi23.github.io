@@ -17,14 +17,22 @@
       institution: University of California, Berkeley - Haas School of Business
       year: 03/2027
       description:
-        - "Coursework: Derivatives, Fixed Income, Stochastic Calculus, Machine Learning for Finance."
+        - "Coursework: Time Series, Machine Learning, Stochastic Calculus, Fixed Income, Derivatives."
 
-    - title: B.A. Economics (High Honors) & Data Science
+    - title: Bachelor of Arts, Economics (High Honors)
       institution: University of California, Berkeley
       year: 12/2025
       description:
         - "GPA: 3.84/4.00."
         - "Economics High Honors (~20 students out of 800, ~2.5%)."
+        - "Coursework: Econometrics, Microeconomics, Macroeconomics."
+
+    - title: Bachelor of Arts, Data Science in Applied Math
+      institution: University of California, Berkeley
+      year: 12/2025
+      description:
+        - "GPA: 3.84/4.00."
+        - "Coursework: Probability Theory, Statistical Methods, Numerical Analysis, Partial Differential Equations."
 
 - title: Professional Experience
   type: time_table
