@@ -45,14 +45,14 @@ cv:
         highlights:
           - "Built LASSO muni credit spread model (spline maturity curves, call optionality features) date-grouped cross-validated over OLS/Ridge/ElasticNet/Huber: test MAE=15bps on 3,219 unseen trades, R2=0.52"
           - "Layered peer-group residual-correction with lagged residuals: MAE=18.4bps to 16.6bps on 556 recent trades; found -11% RMSE improvement in calm but not volatile regimes"
-          - "Designed KNN coverage scorer to flag model confidence (Good/Medium/Weak) for $45B portfolio"
+          - "Designed KNN coverage scorer to flag model confidence (Good/Medium/Weak) for \\$45B portfolio"
       - company: CheckRx
         position: Data Engineering Intern - Healthcare Data Infrastructure
         location: San Diego, CA
         start_date: 2025-06
         end_date: 2025-08
         highlights:
-          - "Constructed database mapping 9,539 providers to plans from fragmented data via Selenium scraping pipeline with anti-bot detection, powering $8.88M valued Medicare AI platform; saved $25,000 in data processing fees"
+          - "Constructed database mapping 9,539 providers to plans from fragmented data via Selenium scraping pipeline with anti-bot detection, powering \\$8.88M valued Medicare AI platform; saved \\$25,000 in data processing fees"
           - "Deployed FastAPI serving real-time Medicare benefits and CMS star ratings across 5,666 plans via bulk endpoints"
       - company: CIMB Niaga
         position: Summer Analyst - Corporate Banking Credit
@@ -60,7 +60,7 @@ cv:
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - "Performed fundamental analysis for $2.9B food client by automating projection model (debt ratio calculations, cash-flows, scenario stress-testing); led $30M loan approval past risk committee, saved 250 hours/year for desk"
+          - "Performed fundamental analysis for \\$2.9B food client by automating projection model (debt ratio calculations, cash-flows, scenario stress-testing); led \\$30M loan approval past risk committee, saved 250 hours/year for desk"
     publications:
       - title: Firm Financial Performance and Organizational Culture under Environmental Volatility
         authors:
